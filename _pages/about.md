@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Rasika Bhalerao"
+title: "Caíque Melo"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,15 +8,8 @@ redirect_from:
   - about.html
 ---
 
-Hi! I am a final-semester PhD student in computer science at NYU Tandon with a passion for teaching, and my advisor is Professor [Damon McCoy](http://damonmccoy.com). 
-My pronouns are she/her. 
-My main research interests are cybersecurity, ethics, and social bias in machine learning! Lately I have been focusing on online harassment. 
-I strongly believe that the most efficient path to ethical tech is to have computer/data scientists who reflect the population that their products are designed to affect. 
-Please feel free to reach out to me to talk about teaching, ethical computing, or online harassment! 
+Hello! I am a first-year PhD Student in Social and Political Scienc  at Bocconi University and Research Affiliate at GAPPE. My research interests are focused on Applied Microeconomics, specifically Political Economy and Development Economics.
 
-<img src="/images/Bhalerao2021.jpeg" width="200">
+Please feel free to reach out to me to talk about research!! 
 
-## Announcements
-
-- I am excited to be an Assistant Teaching Professor at Northeastern University in the San Francisco Bay Area starting Fall 2022!
-- Our paper "[Ethics and Efficacy of Unsolicited Anti-Trafficking SMS Outreach](https://arxiv.org/abs/2202.09527)" was accepted to CSCW 2022!
+<img src="/images/sbe_original.jpg" width="200">
