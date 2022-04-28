@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Caíque Melo"
 description              : &description "I am a PhD student in Social and Political Science at Bocconi University."
 url                      : https://caiquemelo.github.io/
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "caiquemelo.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "caiquemelo/caiquemelo.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
