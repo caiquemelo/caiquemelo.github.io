@@ -12,12 +12,25 @@ author_profile: true
 {% include base_path %}
 
 **Working Papers**
+
 "[**The Kids Aren't Alright: Parental Job Loss and Children's Education in Brazil**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4024250)," with D. Britto and B. Sampaio)
 
 We study the impacts of parental job loss and unemployment benefits on children's education in Brazil, using rich individual-level data on employment, school enrollment, and unemployment insurance for the entire population. Leveraging mass layoffs for identification, we find that parental job loss has a significant adverse impact on children's educational outcomes. School dropouts and age-grade distortion increase by up to 1 and 2 percentage points. The effect is concentrated on disadvantaged families, persisting for at least six years and leading to lower high school completion rates. We further show that children aged 14-17 are more likely to work informally and to commit crimes following parental displacement. In turn, children in advantaged families are more likely to move to lower-quality schools due to parental displacement. Using a clean regression discontinuity design, we show that access to unemployment benefits mitigates some of the adverse impacts of parental job loss on children. Our findings indicate that the income losses following parental displacement are an important mechanism of the effects on children, highlighting the importance of policies that provide income support for displaced workers. Other explanations related to family rupture, migration to poorer neighborhoods, and changes in household production do not receive much support from the data.
 
+"[**Are Educated Candidates Less Corrupt Bureaucrats? Evidence from Randomized Audits in Brazil**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3453192)," with R. Tigre). **Conditionally Accepted at Economic Development and Cultural Change.**
 
+In this paper, we test whether more educated candidates make into less corrupt public managers. Leveraging on electoral RDD and a randomized inspection program, we show that more educated candidates commit 32% fewer moderate infringements (associated with public management), but we do not find a differential in severe irregularities (corruption-related). Exploiting data on judicial records, this effect does not stem from differences in corrupt behavior and might be explained by differences in managerial skills. In addition, more educated mayors have the same chance of re-running and of being reelected as their less-educated peers. Taking advantage of administrative labor records, our examination of possible mechanisms shows that educated candidates have more previous experience in the public sector and high-skill positions. Finally, we find no differential in the provision of public goods between these two groups. In summary, we find that more educated candidates are more effective bureaucrats rather than better politicians.
 
 **Work in Progress**
+
+**Why Don't You Get a Job? Evidence from Campaign Spending Limits.** Draft soon.
+
+Regulations concerning the funding of election campaigns, commonly known as political finance, play a critical role in safeguarding the integrity of political processes and institutions in any democracy. However, little is known about the consequences of financial restrictions during the electoral period despite its diffusion. In this paper, I analyze how campaign spending limits affect the selection of workers in the public sector as a reward for political support. To establish causality, I rely on an institutional rule limiting the spending level allowed for mayoral candidates that generates a kink discontinuity design. Combining electoral data on the composition of municipal coalitions, campaign donors, and Brazilian administrative labor market registries, I find that in municipalities exposed to the spending cap, being a member of the winning mayor's coalition leads to a 12% increase in the likelihood of employment in the public sector. Difference-in-differences estimates show that this effect lasts over the years. Exploring the skill requirements of the new positions, I then show that employment in the public sector is more concentrated in technical-ranked jobs, suggesting that discretionary appointments are widely used to benefit political allies. Heterogeneous predictions using causal forests show that the probability of employment in the public sector is higher in municipalities with a low-income level, high illiteracy rate, and positively related to the amount donated to the electoral campaign.
+
+
+
+
+
+
 
 
